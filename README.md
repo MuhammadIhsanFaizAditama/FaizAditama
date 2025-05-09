@@ -46,4 +46,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadIhsanFaizAditama/MuhammadIhsanFaizAditama/output/pacman-contribution-graph.svg">
 </picture>
 
+<<<<<<< HEAD
 ###
+=======
+###
+>>>>>>> 942ab99e931f7ab6ec913276fd112081038d5b2a
